@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Minidesafios.vcxproj" Id="d8cadcdd-8c9e-4d0c-93eb-c85abcf3e6d8" />
+</Solution>
