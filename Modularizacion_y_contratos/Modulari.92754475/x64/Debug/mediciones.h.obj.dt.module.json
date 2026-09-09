@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Modulari.92754475\\x64\\Debug\\mediciones.obj",
+            "outputs": [
+                "Modulari.92754475\\x64\\Debug\\mediciones.h.obj.dt.module.json",
+                "Modulari.92754475\\x64\\Debug\\mediciones.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
