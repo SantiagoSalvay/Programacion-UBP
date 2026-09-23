@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="caso2.vcxproj" Id="f0aeb01f-7ffd-4f3d-95d1-0edf88b8e6ad" />
+</Solution>

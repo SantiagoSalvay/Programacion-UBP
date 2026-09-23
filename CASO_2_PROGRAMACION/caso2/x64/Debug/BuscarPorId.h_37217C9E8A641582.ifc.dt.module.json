@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "caso2\\x64\\Debug\\BuscarPorId.obj",
+            "outputs": [
+                "caso2\\x64\\Debug\\BuscarPorId.h_37217C9E8A641582.ifc.dt.module.json",
+                "caso2\\x64\\Debug\\BuscarPorId.h_37217C9E8A641582.ifc.dt.d.json",
+                "caso2\\x64\\Debug\\BuscarPorId.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\jefer\\Desktop\\CASO_2_PROGRAMACION\\BuscarPorId.h",
+                    "source-path": "c:\\users\\jefer\\desktop\\caso_2_programacion\\buscarporid.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
